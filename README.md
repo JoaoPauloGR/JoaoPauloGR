@@ -1,16 +1,17 @@
-## Hi there 👋
+## João · Mechanical Engineer → ML Engineer
 
-<!--
-**JoaoPauloGR/JoaoPauloGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I went from mechanics to Machine Learning and never stopped exploring.
+I'm drawn to the broad landscape of AI — how these systems think,
+where they fail, and how to apply them in practical ways.
 
-Here are some ideas to get you started:
+- 🧠 Areas: LLMs, agents, data orchestration, AI applied to lab systems
+- 🔍 Curious about how things work under the hood
+- 🌐 Exploring how AI fits into regulated, audit-heavy environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-Applied-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs_&_Agents-Exploring-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
